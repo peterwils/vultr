@@ -1,0 +1,9 @@
+Building VULTR
+
+See doc/readme-qt.rst for instructions on building VULTR QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of VULTR.
+
+See doc/build-*.txt for instructions on building vultrd,
+the intended-for-services, no-graphical-interface, reference
+implementation of VULTR.
